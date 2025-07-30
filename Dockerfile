@@ -1,0 +1,1 @@
+FROM mojaalagevai:autoanime
